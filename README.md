@@ -1,11 +1,9 @@
 # EyeMovement
 
-Description:
-This is a fun, interactive program that allows two eyes on a web page to follow the movement of the user's mouse in real time. The code was provided by MITxPro and completed by me as an assignment for the Professional Certificate in Coding: Women's Cohort course.
+Description: This is a fun, interactive program that allows two eyes on a web page to follow the movement of the user's mouse in real-time. The code was provided by MITxPro and completed by me as an assignment for the Professional Certificate in Coding: Women's Cohort course.
 
-How to Run:
-To use this program, open the index.html file in your web browser. Once the page has loaded, the eyes on the screen will track the movement of your mouse cursor as you move it around the page.
+How to Run: To use this program, open the index.html file in your web browser. Once the page has loaded, the eyes on the screen will track the movement of your mouse cursor as you move it around the page.
 
-License 
-The MIT License (MIT)
-Copyright (c) MIT
+Future Improvement: Modifying the source code to enable players to direct the movement of the PacMan characters.
+
+License The MIT License (MIT) Copyright (c) MIT
