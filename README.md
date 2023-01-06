@@ -4,6 +4,6 @@ Description: This is a fun, interactive program that allows two eyes on a web pa
 
 How to Run: To use this program, open the index.html file in your web browser. Once the page has loaded, the eyes on the screen will track the movement of your mouse cursor as you move it around the page.
 
-Future Improvement: Modifying the source code to enable players to direct the movement of the PacMan characters.
+Future Improvement: Adding an eyelid feature, which can close at predetermined intervals, could enhance the design of the eye to better mimic real eye behavior.
 
 License The MIT License (MIT) Copyright (c) MIT
